@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-I'm Nepaox !
+I'm Nepaoxy !
 
-- 🔭 I'm currently working on my Website
-- 🌱 I’m currently learning to code a website with html, css, javascript...
-- 💬 Ask me about my project.
+- 🔭 I'm currently working on my Website ex: https://futurwebsite.com
+- 🌱 I’m currently learning to code with html, css, javascript, node.js, etc...
+- 💬 You can ask me question about my project.
 
 How to reach me : ...
 
 <!--
-**Nepaox/nepaox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Nepaoxy/me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --!>
