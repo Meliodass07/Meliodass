@@ -1,13 +1,15 @@
-### Hi there 👋
+Nepaoxy 🎨
+Hi there ! I'm a French developer who loves coding and drawing !
 
-I'm Nepaoxy !
+🔭 I’m currently working on ...
+A module to facilitate the use of PostgreSQL. A module to add effects to your pretty pictures.
 
-- 🔭 I'm currently working on my Website ex: https://futurwebsite.com
-- 🌱 I’m currently learning to code with html, css, javascript, node.js, etc...
-- 💬 You can ask me question about my project.
+🏆 My most famous project ...
+A music Discord bot ! And to make an animation like a manga.
 
-How to reach me : ...
+A simple template to be able to create your own things. With all the necessary functions, frequently updated.
 
-<!--
-**Nepaoxy/me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---!>
+Visit the project right here.
+
+🏓 Need help ?
+Join the support server by clicking here.
